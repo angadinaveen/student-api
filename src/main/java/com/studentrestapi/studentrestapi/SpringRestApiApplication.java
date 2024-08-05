@@ -12,8 +12,10 @@ public class SpringRestApiApplication extends SpringBootServletInitializer {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringRestApiApplication.class, args);
-		System.out.println("Added comments to test jenkins");
-		System.out.println("Added 2ndcomments to test jenkins");
+		/*
+		 * System.out.println("Added comments to test jenkins");
+		 * System.out.println("Added 2ndcomments to test jenkins");
+		 */
 	}
 
 }
